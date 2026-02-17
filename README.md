@@ -60,7 +60,7 @@ I am an **AI & Data Science practitioner** focused on building **real-world, end
 
 ## 🚀 Highlighted Projects
 
-### 🔹 LinkedIn AI Agent Workflow
+### 🔹 Aura AI
 <p><img src="assets/project_linkedin_ai_agent.png" width="100%" /></p>
 
 - Multi-step AI agent workflow for LinkedIn content  
