@@ -26,15 +26,15 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder-786hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AftabAlamDev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Coder-786hub&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AftabAlamDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-786hub&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabAlamDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
